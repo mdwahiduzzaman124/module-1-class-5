@@ -57,7 +57,7 @@ nav a {
   justify-content: space-between;
 }
 .banner .profile-pic {
-  width: 500px;
+  width: 450px;
 }
 .banner-greating {
   color: var(--Dark-02, #474747);
